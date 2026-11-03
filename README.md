@@ -4,6 +4,8 @@ Research software and data science consultant at University of Bonn/University H
 
 Currently learning how to build different kinds of forecasting models from [Modern Time Series Forecasting with Python](https://www.amazon.de/-/en/Modern-Time-Forecasting-Python-industry-ready-ebook/dp/B0BHJ9ZX4Q) and use them to predict electricity prices: https://github.com/atleer/forecast-electricity-markets.
 
+Articles available at my [Google Scholar profile](https://scholar.google.com/citations?user=reyNc7MAAAAJ&hl=en&oi=ao).
+
 <!--
 **atleer/atleer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
