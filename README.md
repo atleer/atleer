@@ -1,4 +1,8 @@
-## Hi there 👋
+## Atle E. Rimehaug | PhD
+
+Research software and data science consultant at University of Bonn/University Hospital Bonn. Studied both psychology and applied physics and mathematics and merged those interest into a PhD in computational neuroscience. Love building and learning how to use data-driven models to uncover hidden truths about the world, be it in physics, neuroscience, economics, or social science.
+
+Currently learning how to build different kinds of forecasting models from [Modern Time Series Forecasting with Python](https://www.amazon.de/-/en/Modern-Time-Forecasting-Python-industry-ready-ebook/dp/B0BHJ9ZX4Q) and use them to predict electricity prices: https://github.com/atleer/forecast-electricity-markets.
 
 <!--
 **atleer/atleer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
