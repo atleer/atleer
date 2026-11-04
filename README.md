@@ -7,7 +7,7 @@ Background:
 - MSc (5-year program) in Applied Physics and Mathematics
 - PhD in Computational Neuroscience.
 
-Love building and learning how to use data-driven models to uncover hidden truths about the world, be it in physics, neuroscience, economics, or social science. Currently learning how to build forecasting models from [Modern Time Series Forecasting with Python](https://www.amazon.de/-/en/Modern-Time-Forecasting-Python-industry-ready-ebook/dp/B0BHJ9ZX4Q) and use them to predict electricity prices: https://github.com/atleer/forecast-electricity-markets.
+Love learning how to use and build data-driven models to uncover hidden truths about the world, be it in physics, neuroscience, economics, or social science. Currently learning how to build forecasting models from [Modern Time Series Forecasting with Python](https://www.amazon.de/-/en/Modern-Time-Forecasting-Python-industry-ready-ebook/dp/B0BHJ9ZX4Q) and use them to predict electricity prices: https://github.com/atleer/forecast-electricity-markets.
 
 Scientific articles available at [Google Scholar](https://scholar.google.com/citations?user=reyNc7MAAAAJ&hl=en&oi=ao).
 
