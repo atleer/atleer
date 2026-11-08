@@ -9,7 +9,7 @@ Background:
 
 Love building data-driven models to uncover hidden truths about the world, be it in physics, neuroscience, economics, or social science. Currently building forecasting models from [Modern Time Series Forecasting with Python](https://www.amazon.de/-/en/Modern-Time-Forecasting-Python-industry-ready-ebook/dp/B0BHJ9ZX4Q) and using them to predict electricity prices: https://github.com/atleer/forecast-electricity-markets.
 
-Scientific articles available at [Google Scholar](https://scholar.google.com/citations?user=reyNc7MAAAAJ&hl=en&oi=ao).
+Scientific publications available at [Google Scholar](https://scholar.google.com/citations?user=reyNc7MAAAAJ&hl=en&oi=ao).
 
 <!--
 **atleer/atleer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
